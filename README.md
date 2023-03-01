@@ -3,21 +3,20 @@
 
 <p align="center">
 
-
 ## Introduction:
-Hello, I am Mr. Lolegic, a software security developer, and founder of LogiSec Corp. I am passionate about programming and I'm dedicated to learning new languages while also sharing my expertise with others. In this essay, I will share my journey as a software security developer, my skills, achievements, and future plans.
+Hello, my name is Mr. Lolegic, and I am a software security developer. I have a passion for programming and strive to continuously learn new languages while sharing my expertise with others. In this essay, I will share my journey as a software security developer, my skills, achievements, and future plans.
 
 ## Skills:
-One of my core skills is my proficiency in the Lua programming language. Over the past four years, I have gained expertise in developing secure code for websites, games, and other software applications. In addition to Lua, I have certificates in HTML, CSS, Responsive Web Design, Coding for Marketers, and JQuery. You may wonder how HTML, CSS, and Responsive Web Design relate to software security. Well, they play a crucial role in developing secure and efficient web applications. For example, using HTML and CSS, we can structure the web page properly, separating the content from the presentation layer. This makes the code easy to maintain and reduces the risk of security vulnerabilities. Responsive Web Design allows the website to adapt to different devices, such as desktops, tablets, and smartphones, ensuring the application functions correctly across all platforms.
+One of my core skills is my proficiency in the Lua programming language. Over the past four years, I have gained expertise in developing secure code for websites, games, and other software applications. I also hold certificates in HTML, CSS, Responsive Web Design, Coding for Marketers, and JQuery. These skills allow me to develop efficient and secure web applications that are easy to maintain and reduce the risk of security vulnerabilities.
 
 ## Achievements:
-I am proud to have founded LogiSec Corp, which is focused on providing software security solutions for games and websites. Through my dedication and hard work, LogiSec Corp has become a recognized and respected name in the industry. I have also worked on numerous projects such as Lua obfuscator, Lua deobfuscator, anti-cheat for Roblox, AI chatbot to help developers learn to code, and a code plagiarism checker.
+I am proud to have founded LogiSec Corp, a new company that is dedicated to providing software security solutions for games and websites. Through my dedication and hard work, we have made significant progress and are gaining recognition in the industry. I have also worked on numerous projects such as Lua obfuscator, Lua deobfuscator, anti-cheat for Roblox, AI chatbot to help developers learn to code, and a code plagiarism checker.
 
 ## Future Plans:
-My goal is to continue growing LogiSec Corp and expanding its services to provide high-quality, efficient, and secure solutions to its clients. I plan to further develop my Lua obfuscator, Lua deobfuscator, and anti-cheat mechanisms for games like Roblox. Additionally, I will enhance the AI chatbot to make it more effective in assisting developers with their coding challenges. I believe these efforts will help achieve my ultimate goal of owning a leading software security company.
+My goal is to continue growing LogiSec Corp and expanding its services to provide high-quality, efficient, and secure solutions to its clients. We plan to further develop our Lua obfuscator, Lua deobfuscator, and anti-cheat mechanisms for games like Roblox. Additionally, we will enhance the AI chatbot to make it more effective in assisting developers with their coding challenges. Our efforts will help us achieve our ultimate goal of becoming a leading software security company.
 
 ## Conclusion:
-In conclusion, my journey as a software security developer has been exciting, and I am looking forward to the future. My skills and expertise in programming and security have enabled me to create efficient and secure code for various applications. I will continue to enhance my skills, broaden my knowledge, and work on innovative projects to achieve my goals. I hope to make a difference in the software security industry and help others achieve their goals.
+In conclusion, I am excited about my journey as a software security developer and the future of LogiSec Corp. Our skills and expertise in programming and security enable us to create efficient and secure code for various applications. We will continue to enhance our skills, broaden our knowledge, and work on innovative projects to achieve our goals. We hope to make a difference in the software security industry and help others achieve their goals.
 </p>
 
 <p align="left"> 
