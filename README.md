@@ -22,7 +22,7 @@ In conclusion, my journey as a software security developer has been exciting, an
 
 <p align="left"> 
 
- ![Visitor Count](https : //profile-counter.glitch.me/MrLolegic/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/MrLolegic/count.svg)
 
 </p>
 
