@@ -20,7 +20,11 @@ My goal is to continue growing LogiSec Corp and expanding its services to provid
 In conclusion, my journey as a software security developer has been exciting, and I am looking forward to the future. My skills and expertise in programming and security have enabled me to create efficient and secure code for various applications. I will continue to enhance my skills, broaden my knowledge, and work on innovative projects to achieve my goals. I hope to make a difference in the software security industry and help others achieve their goals.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlolegic&label=Profile%20views&color=0e75b6&style=flat" alt="mrlolegic" /> </p>
+<p align="left"> 
+
+ ![Visitor Count](https : //profile-counter.glitch.me/MrLolegic/count.svg)
+
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrlolegic" alt="mrlolegic" /></a> </p>
 
