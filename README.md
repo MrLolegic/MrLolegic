@@ -1,27 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mr. Lolegic</h1>
 <h3 align="center">Protecting what matters most to you.</h3>
 
-<p align="center">
+<p align="left">
 
-## Introduction:
-Hello, my name is Mr. Lolegic, and I am a software security developer. I have a passion for programming and strive to continuously learn new languages while sharing my expertise with others. In this essay, I will share my journey as a software security developer, my skills, achievements, and future plans.
+Hey, it's me, Mr. Lolegic, software security pro,
+Mastering Lua, making web apps flow,
+HTML, CSS, and responsive design,
+My skills are sharp, hard to confine.
 
-## Skills:
-One of my core skills is my proficiency in the Lua programming language. Over the past four years, I have gained expertise in developing secure code for websites, games, and other software applications. I also hold certificates in HTML, CSS, Responsive Web Design, Coding for Marketers, and JQuery. These skills allow me to develop efficient and secure web applications that are easy to maintain and reduce the risk of security vulnerabilities.
+I'm Mr. Lolegic, building LogiSec to the sky,
+Secure solutions for apps that won't lie,
+Lua obfuscator, anti-cheat for games,
+My security measures are well-known in many domains.
 
-## Achievements:
-I am proud to have founded LogiSec Corp, a new company that is dedicated to providing software security solutions for games and websites. Through my dedication and hard work, we have made significant progress and are gaining recognition in the industry. I have also worked on numerous projects such as Lua obfuscator, Lua deobfuscator, anti-cheat for Roblox, AI chatbot to help developers learn to code, and a code plagiarism checker.
+I founded LogiSec Corp, with passion and drive,
+Providing secure software, the way I thrive,
+My AI chatbot helps developers learn,
+While code plagiarism checker makes them yearn.
 
-## Future Plans:
-My goal is to continue growing LogiSec Corp and expanding its services to provide high-quality, efficient, and secure solutions to its clients. We plan to further develop our Lua obfuscator, Lua deobfuscator, and anti-cheat mechanisms for games like Roblox. Additionally, we will enhance the AI chatbot to make it more effective in assisting developers with their coding challenges. Our efforts will help us achieve our ultimate goal of becoming a leading software security company.
+I'm Mr. Lolegic, building LogiSec to the sky,
+Secure solutions for apps that won't lie,
+Lua obfuscator, anti-cheat for games,
+My security measures are well-known in many domains.
 
-## Conclusion:
-In conclusion, I am excited about my journey as a software security developer and the future of LogiSec Corp. Our skills and expertise in programming and security enable us to create efficient and secure code for various applications. We will continue to enhance our skills, broaden our knowledge, and work on innovative projects to achieve our goals. We hope to make a difference in the software security industry and help others achieve their goals.
+I always strive to learn, new languages to explore,
+Sharing my expertise, helping others to score,
+The future holds plans to keep LogiSec ahead,
+Leading the industry, with no fear or dread.
+
+I'm Mr. Lolegic, building LogiSec to the sky,
+Secure solutions for apps that won't lie,
+Lua obfuscator, anti-cheat for games,
+My security measures are well-known in many domains.
+
+So, if you need top-notch security, give me a call,
+I'll make sure your apps don't fall,
+My skills and achievements speak for themselves,
+Software security is my game, and I excel!
 </p>
 
 <p align="left"> 
 
- ![Visitor Count](https://profile-counter.glitch.me/MrLolegic/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MrLolegic/count.svg)
 
 </p>
 
