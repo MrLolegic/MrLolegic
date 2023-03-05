@@ -37,6 +37,10 @@ So, if you need top-notch security, give me a call,</br>
 I'll make sure your apps don't fall,</br>
 My skills and achievements speak for themselves,</br>
 Software security is my game, and I excel!</br>
+
+Made by Mr. Lolegic
+
+Reviewed by: Alex Smith
 </p>
 
 <p align="left"> 
