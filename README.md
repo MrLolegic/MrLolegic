@@ -3,40 +3,40 @@
 
 <p align="left">
 
-Hey, it's me, Mr. Lolegic, software security pro,
-Mastering Lua, making web apps flow,
-HTML, CSS, and responsive design,
-My skills are sharp, hard to confine.
+Hey, it's me, Mr. Lolegic, software security pro,</br>
+Mastering Lua, making web apps flow,</br>
+HTML, CSS, and responsive design,</br>
+My skills are sharp, hard to confine.</br>
 
-I'm Mr. Lolegic, building LogiSec to the sky,
-Secure solutions for apps that won't lie,
-Lua obfuscator, anti-cheat for games,
-My security measures are well-known in many domains.
+I'm Mr. Lolegic, building LogiSec to the sky,</br>
+Secure solutions for apps that won't lie,</br>
+Lua obfuscator, anti-cheat for games,</br>
+My security measures are well-known in many domains.</br>
 
-I founded LogiSec Corp, with passion and drive,
-Providing secure software, the way I thrive,
-My AI chatbot helps developers learn,
-While code plagiarism checker makes them yearn.
+I founded LogiSec Corp, with passion and drive,</br>
+Providing secure software, the way I thrive,</br>
+My AI chatbot helps developers learn,</br>
+While code plagiarism checker makes them yearn.</br>
 
-I'm Mr. Lolegic, building LogiSec to the sky,
-Secure solutions for apps that won't lie,
-Lua obfuscator, anti-cheat for games,
-My security measures are well-known in many domains.
+I'm Mr. Lolegic, building LogiSec to the sky,</br>
+Secure solutions for apps that won't lie,</br>
+Lua obfuscator, anti-cheat for games,</br>
+My security measures are well-known in many domains.</br>
 
-I always strive to learn, new languages to explore,
-Sharing my expertise, helping others to score,
-The future holds plans to keep LogiSec ahead,
-Leading the industry, with no fear or dread.
+I always strive to learn, new languages to explore,</br>
+Sharing my expertise, helping others to score,</br>
+The future holds plans to keep LogiSec ahead,</br>
+Leading the industry, with no fear or dread.</br>
 
-I'm Mr. Lolegic, building LogiSec to the sky,
-Secure solutions for apps that won't lie,
-Lua obfuscator, anti-cheat for games,
-My security measures are well-known in many domains.
+I'm Mr. Lolegic, building LogiSec to the sky,</br>
+Secure solutions for apps that won't lie,</br>
+Lua obfuscator, anti-cheat for games,</br>
+My security measures are well-known in many domains.</br>
 
-So, if you need top-notch security, give me a call,
-I'll make sure your apps don't fall,
-My skills and achievements speak for themselves,
-Software security is my game, and I excel!
+So, if you need top-notch security, give me a call,</br>
+I'll make sure your apps don't fall,</br>
+My skills and achievements speak for themselves,</br>
+Software security is my game, and I excel!</br>
 </p>
 
 <p align="left"> 
