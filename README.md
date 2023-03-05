@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mr. Lolegic</h1>
 <h3 align="center">Protecting what matters most to you.</h3>
 
+---
+
 <p align="left">
 
 Hey, it's me, Mr. Lolegic, software security pro,</br>
@@ -42,6 +44,8 @@ Made by Mr. Lolegic
 
 Reviewed by: Alex Smith
 </p>
+
+---
 
 <p align="left"> 
 
